@@ -1,1 +1,4 @@
 arquivo teste
+
+
+Escreve outra coisa no arquivo
